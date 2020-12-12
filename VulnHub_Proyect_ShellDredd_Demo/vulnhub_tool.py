@@ -40,7 +40,7 @@ time.sleep(0.5)
 print (moradito + "    \/\/\/\/\/" + verde + "·······" + moradito + "\/\/\/\/\/\/\/")
 
 #Instalación requirimientos y librerias:
-call("apt install -y python3-pip && pip3 install requests && pip3 install beautifulsoup4 && pip3 install pandas", shell=True)
+call("apt install -y python3-pip apt-get && install python3-tk && pip3 install requests && pip3 install beautifulsoup4 && pip3 install pandas", shell=True)
 call("clear")
 
 #Cabecera Iniciando:
