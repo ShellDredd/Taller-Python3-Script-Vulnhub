@@ -14,7 +14,7 @@
 #         _/  /\  \_
 #        {   /  \   }
 #         `"`    `"`
-#Importación de Liberías y requirimientos:
+#Importación de Liberías y requerimientos:
 import requests
 from bs4 import BeautifulSoup
 import subprocess
@@ -39,7 +39,7 @@ print (moradito + "  \/\/\/\/" + verde + "··············" + moradi
 time.sleep(0.5)
 print (moradito + "    \/\/\/\/\/" + verde + "·······" + moradito + "\/\/\/\/\/\/\/")
 
-#Instalación requirimientos y librerias:
+#Instalación requerimientos y librerias:
 call("apt install -y python3-pip apt-get && install python3-tk && pip3 install requests && pip3 install beautifulsoup4 && pip3 install pandas", shell=True)
 call("clear")
 
