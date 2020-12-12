@@ -3,6 +3,7 @@
 
 # Autor: Alexandre Varela Sixto
 # Apodo: ShellDredd | 
+# Lincia de este código: GPL.V3 (Para más información visite el archivo adjunto LICENSE.)
 
 #Importación de Liberías y requirimientos:
 import requests
