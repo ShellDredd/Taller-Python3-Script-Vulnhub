@@ -2,9 +2,18 @@
 # -*- coding: utf-8 -*-
 
 # Autor: Alexandre Varela Sixto
-# Apodo: ShellDredd | 
+# Apodo: ||ShellDredd||
 # Lincia de este código: GPL.V3 (Para más información visite el archivo adjunto LICENSE.)
-
+            _  _
+           (.)(.)
+          /  ()  \
+        _ \ '--' / _
+       { '-`""""`-' }
+        `"/      \"`
+          \      /
+         _/  /\  \_
+        {   /  \   }
+         `"`    `"`
 #Importación de Liberías y requirimientos:
 import requests
 from bs4 import BeautifulSoup
