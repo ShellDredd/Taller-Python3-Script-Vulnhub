@@ -55,7 +55,7 @@ charizar ('| ~ShellDredd Society~                      |')
 charizar ('|  #Lista actualizada de máquinas de VulHub.|')
 charizar ('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~')
 
-#EFunciones:
+#Funciones:
 print ('')
 print (moradito + 'Hora y fecha de la lista: ' + cs_color + verde + str(time).split("b'")[-1].rsplit("n'")[0], sep="")
 print ('')
