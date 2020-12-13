@@ -1,6 +1,6 @@
 ![alt text](https://pbs.twimg.com/media/El7p-XoXEAkA1LG.png) 
-![alt text]()
-![alt text]()
+![alt text](/images/logo-banner.png)
+![alt text](/images/1.png)
 
 
 # VulnHub_Tool_Demo
