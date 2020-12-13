@@ -3,7 +3,7 @@
 
 # Autor: Alexandre Varela Sixto
 # Apodo: ||ShellDredd||
-# Dato inservible: Hago pizzas artesanas en base 64.
+# Dato corrupto: Hago pizzas artesanas en base 64.
 # Licencia de este código: GPL.V3 (Para más información visite el archivo adjunto LICENSE.)
 #            _  _
 #           (.)(.)
