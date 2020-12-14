@@ -16,14 +16,10 @@
 #        {   /  \   }
 #         `"`    `"`
 #Importación de Liberías y requerimientos:
-import requests
+import requests, subprocess, time
 from bs4 import BeautifulSoup
-import subprocess
 from subprocess import call
 from tkinter import *
-from tkinter import ttk
-import tkinter as tk
-import time
 
 #Definición de paleta de colores:
 cs_color='\033[0;m'
