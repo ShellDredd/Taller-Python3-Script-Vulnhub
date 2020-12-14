@@ -34,7 +34,7 @@ print (moradito + "\/\/\/\/" + verde + "···· Cargando ····" + moradito +
 time.sleep(1)
 print (moradito + "  \/\/\/\/" + verde + "··············" + moradito + "\/\/\/\/\/\/")
 time.sleep(0.5)
-print (moradito + "    \/\/\/\/\/" + verde + "·······" + moradito + "\/\/\/\/\/\/\/")
+print (moradito + "    \/\/\/\/\/" + verde + "·······" + moradito + "\/\/\/\/\/\/")
 
 #Instalación requerimientos y librerias:
 call("apt install -y python3-pip apt-get && install python3-tk && pip3 install requests && pip3 install beautifulsoup4 && pip3 install pandas", shell=True)
@@ -43,9 +43,9 @@ call("clear")
 #Cabecera Iniciando:
 print (moradito + "\/\/\/\/" + verde + "···· Iniciando ····" + moradito + "\/\/\/\/\/\/")
 time.sleep(1)
-print (moradito + "  \/\/\/\/" + verde + "··············" + moradito + "\/\/\/\/\/\/\/")
+print (moradito + "  \/\/\/\/" + verde + "··············" + moradito + "\/\/\/\/\/\/")
 time.sleep(0.5)
-print (moradito + "    \/\/\/\/\/" + verde + "·······" + moradito + "\/\/\/\/\/\/\/\/")
+print (moradito + "    \/\/\/\/\/" + verde + "·······" + moradito + "\/\/\/\/\/\/")
 
 #Variables del programa:
 url_inicio = 'https://www.vulnhub.com'
