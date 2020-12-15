@@ -1,4 +1,5 @@
 ## Descripción de la función de este script:
+
 --Esta es una versión demo donde utilizo la librería BeautifulSoup o bs4 para realizar una función de extracción de información directa,
      a través de la url: vulnhub.com.
 --En esta función y librería se puede apreciar el uso de clases y atributos de maquetado que provienen de HTML y CSS para gestionar los datos
